@@ -1,9 +1,14 @@
 #入门篇
 3.1~3.5：https://asciinema.org/a/BjqjNV9MeDLq56k7H77Pu3XCS
+
 3.5~4.2：https://asciinema.org/a/Gn5k8f3x1iusMhNG2nxFV9r5l
+
 4.3~4.4：https://asciinema.org/a/SMheCQd3s4gS5a0Ob2A6hmf17
+
 5.1~5.4：https://asciinema.org/a/OInaUDUZCfYI9669Dd7ndyB4r
+
 6.1~6.7：https://asciinema.org/a/52PyddOcnwWOfWPN60yBFOfbP
+
 7.1~7.7：https://asciinema.org/a/XFqrn8PGQugQ21Kl3QXxijReQ
 
 附：在实际操作中，3.1的操作一直没有找到录屏的方法。这些操作大多与重启、关闭系统有关，由于会导致虚拟机关闭/重启，因此未能录制，除此以外，4.3操作未成功，后来重新补录了这一步的操作
