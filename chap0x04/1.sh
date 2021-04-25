@@ -26,7 +26,7 @@ Avaliable options:
                                with "_s" suffix.
 Attention:
     By default,if the image format isn't be supported,the script will skips the
-    image file.And the result wiil be strored in the ImgOutPut dir.
+    image file.And the result will be strored in the jpg-output dir.
 EOF
 }
 
@@ -37,7 +37,7 @@ prefix=""
 suffix=""
 if_convert=0
 dir=""
-out="ImgOutPut"
+out="jpg-output"
 # Jpg compress
 # input compress jpg path, output with JpgC_ prefix
 # convert filename1 -compress JPEG -quality 50 filename2 
